@@ -1,0 +1,25 @@
+{
+  "name": "awstool",
+  "version": "1.0.0",
+  "description": "Tool to assist AWS development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gboydhub/awstool.git"
+  },
+  "keywords": [
+    "aws",
+    "electron",
+    "node"
+  ],
+  "author": "Gary Boyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gboydhub/awstool/issues"
+  },
+  "homepage": "https://github.com/gboydhub/awstool#readme"
+}
